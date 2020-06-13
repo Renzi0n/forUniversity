@@ -1,0 +1,14 @@
+@media (max-width: 400px) {
+  .col-6 {
+    flex: 0 0 100% !important;
+    width: 100% !important;
+    padding: 0; }
+
+  .carousel-caption {
+    top: 10% !important;
+    width: 100%; }
+    .carousel-caption h1 {
+      text-align: center !important;
+      max-width: 100%; } }
+
+/*# sourceMappingURL=media.css.map */
